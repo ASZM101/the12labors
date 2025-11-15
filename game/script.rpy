@@ -3,6 +3,12 @@
 # Declare characters used by this game. The color argument colorizes the
 # name of the character.
 
+define saraswati= Character("Saraswati")
+define artemis= Character("Artemis")
+define kannon= Character("Kannon")
+define bellona= Character("Bellona")
+
+
 define amaterasu = Character("Amaterasu")
 define guanyin = Character("Guanyin")
 define minerva = Character("Minerva")
