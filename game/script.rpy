@@ -3,7 +3,11 @@
 # Declare characters used by this game. The color argument colorizes the
 # name of the character.
 
-define e = Character("Eileen")
+define saraswati= Character("Saraswati")
+define artemis= Character("Artemis")
+define kannon= Character("Kannon")
+define bellona= Character("Bellona")
+
 
 
 # The game starts here.
