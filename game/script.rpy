@@ -9,6 +9,10 @@ define kannon= Character("Kannon")
 define bellona= Character("Bellona")
 
 
+define amaterasu = Character("Amaterasu")
+define guanyin = Character("Guanyin")
+define minerva = Character("Minerva")
+define athena = Character("Athena")
 
 # The game starts here.
 
