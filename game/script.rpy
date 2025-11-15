@@ -30,7 +30,7 @@ label start:
 
     bellona "You've created a new Ren'Py game. 67"
 
-    e "Once you add a story, pictures, and music, you can release it to the world!"
+    bellona "Once you add a story, pictures, and music, you can release it to the world!"
 
     # This ends the game.
 
