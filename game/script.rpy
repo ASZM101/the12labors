@@ -19,7 +19,7 @@ define twelve = Character("Bellona")
 
 # The game starts here.
 
-label start:
+label maatScene:
 
     # Show a background. This uses a placeholder by default, but you can
     # add a file (named either "bg room.png" or "bg room.jpg") to the
@@ -92,7 +92,7 @@ label danuScene:
 
     six "Let's see if you're a true plant lover!"
 
-    
+
 
 
 label swatiScene:
