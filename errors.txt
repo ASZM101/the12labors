@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 6: expected 'word' not found.
+    define 1 = Character("Athena")
+             ^
+
+Ren'Py Version: Ren'Py 8.4.1.25072401
+Sat Nov 15 20:29:34 2025
