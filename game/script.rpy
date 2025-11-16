@@ -3,12 +3,14 @@
 # Declare characters used by this game. The color argument colorizes the
 # name of the character.
 
-define saraswati= Character("Saraswati")
-define artemis= Character("Artemis")
-define kannon= Character("Kannon")
-define bellona= Character("Bellona")
-
-
+define saraswati = Character("Saraswati")
+define artemis = Character("Artemis")
+define kannon = Character("Kannon")
+define bellona = Character("Bellona")
+define parvati = Character("Parvati")
+define danu = Character("Danu")
+define maat = Character("Ma'at")
+define seshat = Character("Seshat")
 define amaterasu = Character("Amaterasu")
 define guanyin = Character("Guanyin")
 define minerva = Character("Minerva")
@@ -31,10 +33,11 @@ label start:
     show eileen happy
 
     # These display lines of dialogue.
+    
+    # Dialogue format:
+    # characterVariable "Dialogue"
 
-    bellona "You've created a new Ren'Py game. 67"
-
-    bellona "Once you add a story, pictures, and music, you can release it to the world!"
+    
 
     # This ends the game.
 
