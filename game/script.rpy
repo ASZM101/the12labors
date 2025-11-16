@@ -1,9 +1,4 @@
-﻿# The script of the game goes in this file.
-
-# Declare characters used by this game. The color argument colorizes the
-# name of the character.
-
-define one = Character("Athena")
+﻿define one = Character("Athena")
 define two = Character("Artemis")
 define three = Character("Parvati")
 define four = Character("Guanyin")
@@ -15,8 +10,6 @@ define nine = Character("Amaterasu")
 define ten = Character("Seshat")
 define eleven = Character("Minerva")
 define twelve = Character("Bellona")
-
-# The game starts here.
 
 label start:
 
@@ -37,9 +30,9 @@ label start:
     # Dialogue format:
     # characterVariable "Dialogue"
 
-    one "Yo, you’re dead."
+    one "Yo, you're dead."
     one "However, if you complete 12 labors from some goddesses, you can become a demi-god."
-    one "You wanna be immortal? Now’s your chance."
+    one "You wanna be immortal? Now's your chance."
     menu:
 
         "Attempt the 12 labors":
